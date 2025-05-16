@@ -1,8 +1,8 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
-TOKEN = "PASTE_YOUR_TOKEN_HERE"
-OWNER_ID = PASTE_YOUR_NUMERIC_TELEGRAM_ID_HERE
+TOKEN = "7520570417:AAFWC5h5nKDF_RxWbvwkillm6N8K_Jvn-v8"
+OWNER_ID = 7941916933
 
 NAME, PHONE, MODEL, PROBLEM, ADDRESS = range(5)
 
